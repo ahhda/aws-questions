@@ -5,7 +5,7 @@
 <span>This is a list of AWS Certified Solutions Architect Associate questions and their answers ✨
 
 
-I have also added a lot of good practice tests at the following Udemy course [AWS Certified Solutions Architect Associate Practice Tests](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-latest/?referralCode=A7EE53FF637EB9125780).
+I have also added a lot of good practice tests at the following Udemy course [AWS Certified Solutions Architect Associate Practice Tests](https://www.udemy.com/course/aws-certified-solutions-architect-associate-practice-tests-s/?referralCode=A7EE53FF637EB9125780).
 
 From basic to advanced, test how well you know AWS, refresh your knowledge a bit, or prepare for your AWS Certified Solutions Architect Associate exam! </span>
 
