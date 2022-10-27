@@ -840,4 +840,24 @@ Knowledge Area: Deployment
 </p>
 </details>
 
+###### 41. A company is building an Amazon Redshift cluster in its shared services VPC. The cluster will host
+sensitive data. How can the company control which networks can access the cluster?
+
+- 1. Run the cluster in a different VPC and connect through VPC peering.
+- 2. Create a database user inside the Amazon Redshift cluster for users on the network only.
+- 3. Define a cluster security group for the cluster that allows access from the allowed networks.
+- 4. Only allow access to networks that connect with the shared services network using VPN.
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+#### Answer (C) A security group can grant access to traffic from the allowed networks using the CIDR range for each network.
+VPC peering and VPN are connectivity services and cannot control traffic for security. Amazon Redshift user accounts
+address authentication and authorization at the user level and have no control over network traffic.
+
+Knowledge Area: Security Architecture
+
+</p>
+</details>
+
 ---
